@@ -1,21 +1,13 @@
 {
-  "name": "frequency-list",
-  "version": "0.0.1",
+  "name": "matthewmueller-frequency-list",
   "description": "create frequency lists",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/MatthewMueller/frequency-list.git"
-  },
+  "version": "0.0.1",
   "keywords": [
-    "frequency",
     "list",
-    "frequency-list"
+    "frequency",
+    "frequency-list",
+    "occurences"
   ],
-  "author": "Matthew Mueller",
-  "license": "MIT",
-  "readmeFilename": "Readme.md"
+  "dependencies": {},
+  "license": "MIT"
 }
